@@ -6,4 +6,11 @@ public class Hello {
         System.out.println("Hello");
     }
 
+    public void test(){
+
+        int i=0;
+        i++;
+
+    }
+
 }
